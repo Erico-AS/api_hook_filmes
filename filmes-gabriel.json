@@ -1,0 +1,125 @@
+[
+    {
+        "id": 1,
+        "titulo": "Homem Aranha: Através do Aranhaverso",
+        "data-lançamento": "01/05/2023",
+        "duracao": "2h 20m",
+        "tipo": "Animação, Aventura e Ação",
+        "avaliacao-usuarios": "84%",
+        "sinopse": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+        "diretores": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "imagem": ""
+    },
+
+    {
+        "id": 2,
+        "titulo": "Como Treinar o seu Dragão 2",
+        "data-lançamento": "20/06/2014",
+        "duracao": "1h 42m",
+        "tipo": "Fantasia, Ação, Aventura, Animação, Comédia, Família",
+        "avaliacao-usuarios": "77%",
+        "sinopse": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem. O local é protegido por Valka, mãe de Soluço, que foi afastada do filho quando ele ainda era um bebê. Juntos, eles precisarão proteger o mundo que conhecem do perigoso Drago Bludvist, que deseja controlar todos os dragões existentes.",
+        "diretores": "Dean DeBlois",
+        "imagem": ""
+    },
+
+    {
+        "id": 3,
+        "titulo": "Homem-Aranha: Sem Volta Para Casa",
+        "data-lançamento": "16/12/2021",
+        "duracao": "2h 29m",
+        "tipo": "Ação, Aventura, Ficção científica",
+        "avaliacao-usuarios": "80%",
+        "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+        "diretores": "Jon Watts",
+        "imagem": ""
+    },
+
+    {
+        "id": 4,
+        "titulo": "Scott Pilgrim Contra o Mundo",
+        "data-lançamento": "27/07/2010",
+        "duracao": "1h 53m",
+        "tipo": "Ação, Comédia, Romance",
+        "avaliacao-usuarios": "75%",
+        "sinopse": "Scott Pilgrim (Michael Cera) tem 23 anos, integra uma banda de colégio, vive trocando de emprego e tem um namoro firme. Sua vida está maravilhosa, até conhecer Ramona V. Flowers (Mary Elizabeth Winestead). Ele logo se apaixona perdidamente por ela, só que não será fácil conquistar seu amor. Para tanto ele precisa enfrentar os sete ex-namorados dela, que estão dispostos a tudo para impedir sua felicidade com outra pessoa.",
+        "diretores": "Edgar Wright",
+        "imagem": ""
+    },
+
+    {
+        "id": 5,
+        "titulo": "Homem-Aranha: No Aranhaverso",
+        "data-lançamento": "10/01/2019",
+        "duracao": "1h 57m",
+        "tipo": "Ação, Aventura, Animação, Ficção científica",
+        "avaliacao-usuarios": "84%",
+        "sinopse": "Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.",
+        "diretores": "Rodney Rothman, Bob Persichetti, Peter Ramsey",
+        "imagem": ""
+    },
+
+    {
+        "id": 6,
+        "titulo": "Kung Fu Panda",
+        "data-lançamento": "06/06/2008",
+        "duracao": "1h 35m",
+        "tipo": "Ação, Aventura, Animação, Família, Comédia",
+        "avaliacao-usuarios": "72%",
+        "sinopse": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado.",
+        "diretores": "Mark Osborne, John Stevenson",
+        "imagem": ""
+    },
+
+    {
+        "id": 7,
+        "titulo": "De Volta para o Futuro",
+        "data-lançamento": "25/12/1985",
+        "duracao": "1h 55m",
+        "tipo": "Aventura, Comédia, Ficção científica",
+        "avaliacao-usuarios": "83%",
+        "sinopse": "Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.",
+        "diretores": "Robert Zemeckis",
+        "imagem": ""
+    },
+
+    {
+        "id": 8,
+        "titulo": "Até o Último Homem",
+        "data-lançamento": "26/01/2017",
+        "duracao": "2h 20m",
+        "tipo": "Drama, História, Guerra",
+        "avaliacao-usuarios": "82%",
+        "sinopse": "Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.",
+        "diretores": "Mel Gibson",
+        "imagem": ""
+    },
+
+    {
+        https://www.themoviedb.org/movie/862-toy-story?language=pt-BR
+    },
+
+    {
+        https://www.themoviedb.org/movie/14160-up?language=pt-BR
+    },
+
+    {
+        https://www.themoviedb.org/movie/296096-me-before-you?language=pt-BR
+    },
+
+    {
+        https://www.themoviedb.org/movie/316029-the-greatest-showman?language=pt-BR
+    },
+
+    {
+        https://www.themoviedb.org/movie/313369-la-la-land?language=pt-BR
+    },
+
+    {
+        https://www.themoviedb.org/movie/585-monsters-inc?language=pt-BR
+    },
+
+    {
+        https://www.themoviedb.org/movie/508439-onward?language=pt-BR
+    }
+]

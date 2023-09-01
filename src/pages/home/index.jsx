@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 
 const Home = ({ setMovieData }) => {
     const [movies, setMovies] = useState([])
-    const url = `https://github.com/Erico-AS/api/blob/main/melo.json`
+    const url = `https://raw.githubusercontent.com/Erico-AS/api/main/melo.json`
 
     useEffect(() => {
         const getMovies = async () => {
@@ -25,7 +25,7 @@ const Home = ({ setMovieData }) => {
                 <h2>
                     {movie.id} {movie.titulo} <br/> {movie.data}
                     {movie.diretores} <br/> {movie.duracao} <br/> {movie.avaliacao} <br/>
-                    {movie.tipo} <br/> {movie.sinopse} <br/> {movie.imagem}
+                    {movie.tipo} <br/> {movie.sinopse} <br/>
                 </h2>
                 <img src={movie.imagem} alt={movie.titulo} />
             </div>

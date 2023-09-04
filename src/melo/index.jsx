@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import CardFilme from '../../Components/Cards'
-import "../../Components/Cards/card.css"
+import CardFilme from '../Components/Cards'
+import "../Components/Cards/card.css"
 
-const Erico = ({ setMovieData }) => {
+const Melo = ({ setMovieData }) => {
     const [movies, setMovies] = useState([])
-    const url = `https://raw.githubusercontent.com/Erico-AS/api/main/erico.json`
+    const url = `https://raw.githubusercontent.com/Erico-AS/api/main/melo.json`
 
     useEffect(() => {
         const getMovies = async () => {
@@ -36,4 +36,4 @@ const Erico = ({ setMovieData }) => {
   )
 }
 
-export default Erico
+export default Melo

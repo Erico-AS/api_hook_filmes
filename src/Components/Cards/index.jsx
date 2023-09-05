@@ -22,7 +22,7 @@ export default function CardFilme({titulo, sinopse, ano, avalicao, imagem}) {
           <Typography gutterBottom variant="body1" component="div">
           {titulo}
         </Typography>
-        <Typography variant="body2" color="text.secondary" sx={{ height: 160}}>
+        <Typography variant="body2" color="text.secondary" sx={{ height: 360}}>
           {sinopse}
         </Typography>
         </Box>

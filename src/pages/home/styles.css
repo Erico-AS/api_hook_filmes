@@ -8,17 +8,3 @@ body {
     width: 100%;
     height: 100vh;
 }
-
-main {
-    width: 100%;
-    height: fit-content;
-    
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.filme { 
-    width: 25vw;
-    height: 30vh;
-}

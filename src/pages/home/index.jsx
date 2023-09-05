@@ -1,12 +1,12 @@
-// eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Button } from '@mui/material'
+import CardFilme from '../../Components/Cards'
 import Navbar from '../../Components/Navbar'
-import "./styles.css"
 
-const Home = () => {
+const Home = ({ setMovieData }) => {
   const [movies, setMovies] = useState([])
+  const [currentCategory, setCurrentCategory] = useState('');
   const url = 'https://raw.githubusercontent.com/Erico-AS/api/main/filmes.json'
 
   useEffect(() => {
@@ -14,26 +14,70 @@ const Home = () => {
           const response = await fetch(url)
           const data = await response.json()
           setMovies(data.categorias)
+          if (data.categorias.length > 0) {
+            setCurrentCategory(data.categorias[0].nome);
+          }
       }
       getMovies()
-  }, [])
+  }, []);
 
-  return (<>
-    <Navbar />
-    <main>
-      {movies.map(() => (
-        // eslint-disable-next-line react/jsx-key
-        <div className='filme'>
-          {movies.map(movie => (
-            // eslint-disable-next-line react/jsx-key
-            <p>{movie.nome}</p>
+  const changeCategory = (category) => {
+      setCurrentCategory(category);
+    };
+
+   /* movies.forEach(element => {
+    var filme = element.filmes[0].titulo
+    console.log(filme + " || " + element.nome)
+  }); 
+
+  movies.forEach(element => {
+    var filmeb = element.filmes[1].titulo
+    console.log(filmeb + " || " + element.nome);
+  });
+
+  movies.forEach(element => {
+    var filmec = element.filmes[2].titulo
+    console.log(filmec + " || " + element.nome);
+  }); */
+
+
+  return (
+    <>
+      <Navbar />
+        <Button variant="contained"><Link to="/erico">Filmes Erico</Link></Button>
+        <Button variant="contained"><Link to="/melo">Filmes Melo</Link></Button>
+        <main>
+        <div className='categoria-buttons'>
+          {movies.map((categoria) => (
+            <Button
+              key={categoria.nome}
+              variant='contained'
+              onClick={() => changeCategory(categoria.nome)}
+              className={currentCategory === categoria.nome ? 'active' : ''}
+            >
+              {categoria.nome}
+            </Button>
           ))}
         </div>
-      ))}
-    </main>
-    <Link to="/erico"><Button variant="contained">Filmes Erico</Button></Link>
-    <Link to="/melo"><Button variant="contained">Filmes Melo</Button></Link>
-  </>)
+        {movies.map((categoria) =>
+          categoria.nome === currentCategory ? (
+            <div className='filme' key={categoria.nome}>
+              <h2>{categoria.nome}</h2>
+              <ul>
+                {categoria.filmes.map((filme) => (
+                  <li key={filme.titulo}>
+                    <p>Título: {filme.titulo}</p>
+                    <p>Ano: {filme.ano}</p>
+                    <p>Diretor: {filme.diretor}</p>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null
+        )}
+      </main>
+    </>
+  )
 }
 
 export default Home

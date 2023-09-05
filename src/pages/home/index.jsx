@@ -4,20 +4,21 @@ import { Button } from '@mui/material'
 
 const Home = ({ setMovieData }) => {
   const [movies, setMovies] = useState([])
-  const url = `https://raw.githubusercontent.com/Erico-AS/api_hook_filmes/main/data/filmes.json`
+  const url = 'https://raw.githubusercontent.com/Erico-AS/api/main/filmes.json'
 
   useEffect(() => {
       const getMovies = async () => {
           const response = await fetch(url)
-          console.log(response)
           const data = await response.json()
-          console.log(data)
-          setMovies(data)
+          setMovies(data.categorias)
       }
       getMovies()
   }, [])
 
-  console.log(movies.categoria)
+  movies.forEach(element => {
+    var filme = element.filmes[0].titulo
+    console.log(filme + " || " + element.nome)
+  });
 
   return (
     <div>

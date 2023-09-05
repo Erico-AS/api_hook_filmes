@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Button } from '@mui/material'
-import CardFilme from '../../Components/Cards'
 import Navbar from '../../Components/Navbar'
+import "./styles.css"
 
-const Home = ({ setMovieData }) => {
+const Home = () => {
   const [movies, setMovies] = useState([])
   const url = 'https://raw.githubusercontent.com/Erico-AS/api/main/filmes.json'
 
@@ -17,35 +17,20 @@ const Home = ({ setMovieData }) => {
       getMovies()
   }, [])
 
-   movies.forEach(element => {
-    var filme = element.filmes[0].titulo
-    console.log(filme + " || " + element.nome)
-  }); 
-
-  movies.forEach(element => {
-    var filmeb = element.filmes[1].titulo
-    console.log(filmeb + " || " + element.nome);
-  });
-
-  movies.forEach(element => {
-    var filmec = element.filmes[2].titulo
-    console.log(filmec + " || " + element.nome);
-  });
-
-
-  return (
-    <div>
-      <Navbar />
-        <Button variant="contained"><Link to="/erico">Filmes Erico</Link></Button>
-        <Button variant="contained"><Link to="/melo">Filmes Melo</Link></Button>
-        {movies.map( movie => {
-          <CardFilme 
-          titulo = {movie.titulo}
-          />
-        })
-        }
-    </div>
-  )
+  return (<>
+    <Navbar />
+    <main>
+      {movies.map(() => (
+        <div className='filme'>
+          {movies.map(movie => (
+            <p>{movie.nome}</p>
+          ))}
+        </div>
+      ))}
+    </main>
+    <Link to="/erico"><Button variant="contained">Filmes Erico</Button></Link>
+    <Link to="/melo"><Button variant="contained">Filmes Melo</Button></Link>
+  </>)
 }
 
 export default Home

@@ -10,27 +10,15 @@
           "imagem": ""
         },
         {
-         "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Terror 2",
+          "ano": 2023,
+          "diretor": "Diretor 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Terror 3",
+          "ano": 2024,
+          "diretor": "Diretor 3",
           "imagem": ""
         }
       ]
@@ -39,418 +27,274 @@
       "nome": "Ação",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Ação 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Ação 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Ação 2",
+          "ano": 2023,
+          "diretor": "Diretor Ação 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Ação 3",
+          "ano": 2024,
+          "diretor": "Diretor Ação 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
       "nome": "Aventura",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Aventura 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Aventura 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Aventura 2",
+          "ano": 2023,
+          "diretor": "Diretor Aventura 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Aventura 3",
+          "ano": 2024,
+          "diretor": "Diretor Aventura 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
       "nome": "Biografico",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme Biográfico 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Biográfico 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme Biográfico 2",
+          "ano": 2023,
+          "diretor": "Diretor Biográfico 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme Biográfico 3",
+          "ano": 2024,
+          "diretor": "Diretor Biográfico 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
       "nome": "Comedia",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Comédia 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Comédia 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Comédia 2",
+          "ano": 2023,
+          "diretor": "Diretor Comédia 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Comédia 3",
+          "ano": 2024,
+          "diretor": "Diretor Comédia 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
-      "nome": "Comedia dramatica",
+      "nome": "Comedia Dramática",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Comédia Dramática 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Comédia Dramática 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Comédia Dramática 2",
+          "ano": 2023,
+          "diretor": "Diretor Comédia Dramática 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Comédia Dramática 3",
+          "ano": 2024,
+          "diretor": "Diretor Comédia Dramática 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
-      "nome": "Comedia romantica",
+      "nome": "Comedia Romántica",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Comédia Romántica 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Comédia Romántica 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Comédia Romántica 2",
+          "ano": 2023,
+          "diretor": "Diretor Comédia Romántica 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Comédia Romántica 3",
+          "ano": 2024,
+          "diretor": "Diretor Comédia Romántica 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
-      "nome": "Historico",
+      "nome": "Histórico",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme Histórico 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Histórico 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme Histórico 2",
+          "ano": 2023,
+          "diretor": "Diretor Histórico 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme Histórico 3",
+          "ano": 2024,
+          "diretor": "Diretor Histórico 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
       "nome": "Drama",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Drama 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Drama 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Drama 2",
+          "ano": 2023,
+          "diretor": "Diretor Drama 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Drama 3",
+          "ano": 2024,
+          "diretor": "Diretor Drama 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
       "nome": "Fantasia",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Fantasia 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Fantasia 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Fantasia 2",
+          "ano": 2023,
+          "diretor": "Diretor Fantasia 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Fantasia 3",
+          "ano": 2024,
+          "diretor": "Diretor Fantasia 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
-      "nome": "Ficcao cientifica",
+      "nome": "Ficção Científica",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Ficção Científica 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Ficção Científica 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Ficção Científica 2",
+          "ano": 2023,
+          "diretor": "Diretor Ficção Científica 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Ficção Científica 3",
+          "ano": 2024,
+          "diretor": "Diretor Ficção Científica 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
       "nome": "Musical",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme Musical 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Musical 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme Musical 2",
+          "ano": 2023,
+          "diretor": "Diretor Musical 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme Musical 3",
+          "ano": 2024,
+          "diretor": "Diretor Musical 3",
           "imagem": ""
         }
       ]
-    }
+    },
     {
       "nome": "Romance",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
+          "titulo": "Filme de Romance 1",
           "ano": 2022,
-          "diretor": "Diretor 1",
+          "diretor": "Diretor Romance 1",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Romance 2",
+          "ano": 2023,
+          "diretor": "Diretor Romance 2",
           "imagem": ""
         },
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
+          "titulo": "Filme de Romance 3",
+          "ano": 2024,
+          "diretor": "Diretor Romance 3",
           "imagem": ""
         }
       ]

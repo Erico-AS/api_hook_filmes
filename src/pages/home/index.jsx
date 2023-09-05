@@ -17,8 +17,8 @@ const Home = ({ setMovieData }) => {
       getMovies()
   }, [])
 
-  console.log(movies.categoria)
-  
+  console.log(movies.categoria.nome.filme)
+
   return (
     <div>
         <Button variant="contained"><Link to="/erico">Filmes Erico</Link></Button>

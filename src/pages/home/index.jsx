@@ -17,7 +17,7 @@ const Home = ({ setMovieData }) => {
       getMovies()
   }, [])
 
-  console.log(movies.categoria.nome.filme)
+  console.log(movies.categoria)
 
   return (
     <div>

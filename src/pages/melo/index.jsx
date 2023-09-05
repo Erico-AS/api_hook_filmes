@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import CardFilme from '../../Components/Cards'
 import "../../Components/Cards/card.css"
+import { Box, Container, Grid } from '@mui/material'
+import "./melo.css"
 
 const Melo = ({ setMovieData }) => {
     const [movies, setMovies] = useState([])
@@ -21,17 +23,26 @@ const Melo = ({ setMovieData }) => {
 
   return (
     <div>
+      <Container maxWidth="500">
+      <Grid container spacing={3}>
       { 
         movies.map( movie => (
+          <Grid item xs={2.4}>
+            <Box>
             <CardFilme 
             imagem = {movie.imagem}
             titulo = {movie.titulo}
             avaliacao = {movie.avaliacao}
             sinopse = {movie.sinopse}
-            ano = {movie.lancamento}/>
+            ano = {movie.lancamento}
+            className="sinopse"
+            />
+            </Box>
+          </Grid>
         ))
-      
       }
+      </Grid>
+      </Container>
     </div>
   )
 }

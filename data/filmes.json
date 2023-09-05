@@ -1,1 +1,459 @@
-https://jardimpamplonashopping.com.br/tipos-de-filmes/
+{
+  "categorias": [
+    {
+      "nome": "Terror",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+         "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    },
+    {
+      "nome": "Ação",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Aventura",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Biografico",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Comedia",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Comedia dramatica",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Comedia romantica",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Historico",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Drama",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Fantasia",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Ficcao cientifica",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Musical",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+    {
+      "nome": "Romance",
+      "filmes": [
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        },
+        {
+          "titulo": "Filme de Terror 1",
+          "ano": 2022,
+          "diretor": "Diretor 1",
+          "imagem": ""
+        }
+      ]
+    }
+  ]
+}

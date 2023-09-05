@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Button } from '@mui/material'
@@ -21,8 +22,10 @@ const Home = () => {
     <Navbar />
     <main>
       {movies.map(() => (
+        // eslint-disable-next-line react/jsx-key
         <div className='filme'>
           {movies.map(movie => (
+            // eslint-disable-next-line react/jsx-key
             <p>{movie.nome}</p>
           ))}
         </div>

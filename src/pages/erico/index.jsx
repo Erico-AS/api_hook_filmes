@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import CardFilme from '../../Components/Cards'
 import "../../Components/Cards/card.css"
 import { Box, Container, Grid } from '@mui/material'
+import Navbar from '../../Components/Navbar'
 
 const Erico = ({ setMovieData }) => {
     const [movies, setMovies] = useState([])
@@ -22,6 +23,7 @@ const Erico = ({ setMovieData }) => {
 
   return (
     <div>
+      <Navbar />
       <Container maxWidth="500">
       <Grid container spacing={3}>
       { 
@@ -34,6 +36,7 @@ const Erico = ({ setMovieData }) => {
             avaliacao = {movie.avaliacao}
             sinopse = {movie.sinopse}
             ano = {movie.lancamento}
+            diretor={movie.diretores}
             className="sinopse"
             />
             </Box>

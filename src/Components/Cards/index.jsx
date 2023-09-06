@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography'
 import { Box, CardActionArea, Paper } from '@mui/material';
 
-export default function CardFilme({titulo, sinopse, ano, avalicao, imagem}) {
+export default function CardFilme({titulo, sinopse, ano, avalicao, imagem, diretor}) {
   return (
     <Card sx={{ maxWidth: 800}}>
       <CardActionArea>
@@ -17,12 +17,12 @@ export default function CardFilme({titulo, sinopse, ano, avalicao, imagem}) {
       <Box display='flex' flexDirection={'column'} alignItems="center">
       <div className="image" style={{ backgroundImage: `url(${imagem})` }}></div>
       </Box>
-      <CardContent>
+      <CardContent sx={{height: 360}}>
         <Box display='flex' flexDirection={'column'} justifyContent="space-between" alignItems="center">
           <Typography gutterBottom variant="body1" component="div">
           {titulo}
         </Typography>
-        <Typography variant="body2" color="text.secondary" sx={{ height: 360}}>
+        <Typography variant="body2" color="text.secondary">
           {sinopse}
         </Typography>
         </Box>
@@ -30,8 +30,8 @@ export default function CardFilme({titulo, sinopse, ano, avalicao, imagem}) {
       </CardActionArea>
       <CardActions>
       <Box display='flex' flexDirection={'column'} alignItems="center">
-        <Button size="small">{avalicao}</Button>
         <Button size="large">{ano}</Button>
+        <Button size="small">{avalicao}</Button>
       </Box>
       </CardActions>
     </Card>

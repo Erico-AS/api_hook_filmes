@@ -1,13 +1,15 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { Button } from '@mui/material'
+import { Box, Button, Grid } from '@mui/material'
 import CardFilme from '../../Components/Cards'
 import Navbar from '../../Components/Navbar'
+import CardPrincipal from '../../Components/CardPrincipal'
+import './styles.css'
 
 const Home = ({ setMovieData }) => {
   const [movies, setMovies] = useState([])
   const [currentCategory, setCurrentCategory] = useState('');
-  const url = 'https://raw.githubusercontent.com/Erico-AS/api/main/filmes.json'
+  const url = 'https://raw.githubusercontent.com/Erico-AS/api_hook_filmes/main/data/filmes.json'
 
   useEffect(() => {
       const getMovies = async () => {
@@ -28,14 +30,12 @@ const Home = ({ setMovieData }) => {
   return (
     <>
       <Navbar />
-        <Button variant="contained"><Link to="/erico">Filmes Erico</Link></Button>
-        <Button variant="contained"><Link to="/melo">Filmes Melo</Link></Button>
         <main>
         <div className='categoria-buttons'>
           {movies.map((categoria) => (
             <Button
               key={categoria.nome}
-              variant='contained'
+              variant='text'
               onClick={() => changeCategory(categoria.nome)}
               className={currentCategory === categoria.nome ? 'active' : ''}
             >
@@ -46,16 +46,21 @@ const Home = ({ setMovieData }) => {
         {movies.map((categoria) =>
           categoria.nome === currentCategory ? (
             <div className='filme' key={categoria.nome}>
-              <h2>{categoria.nome}</h2>
-              <ul>
+              <Grid container spacing={2}>
                 {categoria.filmes.map((filme) => (
-                  <li key={filme.titulo}>
-                    <p>Título: {filme.titulo}</p>
-                    <p>Ano: {filme.ano}</p>
-                    <p>Diretor: {filme.diretor}</p>
-                  </li>
+                  <Grid item xs={2} key={filme.titulo}>
+                    <Box>
+                      <CardPrincipal
+                      titulo={<h1>{filme.titulo}</h1>}
+                      diretor={<h2>{filme.diretor}</h2>}
+                      ano={<h3>{filme.ano}</h3>}
+                      imagem={filme.imagem}
+                      >
+                    </CardPrincipal>
+                    </Box>
+                  </Grid>
                 ))}
-              </ul>
+              </Grid>
             </div>
           ) : null
         )}

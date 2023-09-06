@@ -3,10 +3,11 @@ import CardFilme from '../../Components/Cards'
 import "../../Components/Cards/card.css"
 import { Box, Container, Grid } from '@mui/material'
 import "./melo.css"
+import Navbar from '../../Components/Navbar'
 
 const Melo = ({ setMovieData }) => {
     const [movies, setMovies] = useState([])
-    const url = `https://raw.githubusercontent.com/Erico-AS/api/main/melo.json`
+    const url = `https://raw.githubusercontent.com/Erico-AS/api_hook_filmes/main/data/melo.json`
 
     useEffect(() => {
         const getMovies = async () => {
@@ -23,6 +24,7 @@ const Melo = ({ setMovieData }) => {
 
   return (
     <div>
+      <Navbar />
       <Container maxWidth="500">
       <Grid container spacing={3}>
       { 
@@ -35,6 +37,7 @@ const Melo = ({ setMovieData }) => {
             avaliacao = {movie.avaliacao}
             sinopse = {movie.sinopse}
             ano = {movie.lancamento}
+            diretor={movie.diretores}
             className="sinopse"
             />
             </Box>

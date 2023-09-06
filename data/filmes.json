@@ -4,22 +4,22 @@
       "nome": "Terror",
       "filmes": [
         {
-          "titulo": "Filme de Terror 1",
-          "ano": 2022,
-          "diretor": "Diretor 1",
-          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg"
+          "titulo": "Psicose",
+          "ano": 1960,
+          "diretor": "Alfred Hitchcock",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lqTVfL68X937Gtd4rlgEmwiDDHI.jpg"
         },
         {
-          "titulo": "Filme de Terror 2",
-          "ano": 2023,
-          "diretor": "Diretor 2",
-          "imagem": ""
+          "titulo": "O Iluminado",
+          "ano": 1980,
+          "diretor": "Stanley Kubrick",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg"
         },
         {
-          "titulo": "Filme de Terror 3",
-          "ano": 2024,
-          "diretor": "Diretor 3",
-          "imagem": ""
+          "titulo": "O Exorcista",
+          "ano": 1973,
+          "diretor": "William Friedkin",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mdKnZaCbNWq8CMhN8GxGZXIEC9j.jpg"
         }
       ]
     },
@@ -27,22 +27,22 @@
       "nome": "Ação",
       "filmes": [
         {
-          "titulo": "Filme de Ação 1",
-          "ano": 2022,
-          "diretor": "Diretor Ação 1",
-          "imagem": ""
+          "titulo": "Batman: O Cavaleiro das Trevas",
+          "ano": 2008,
+          "diretor": "Christopher Nolan",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg"
         },
         {
-          "titulo": "Filme de Ação 2",
+          "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+          "ano": 2003,
+          "diretor": "Peter Jackson",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg"
+        },
+        {
+          "titulo": "Homem-Aranha: Através do Aranhaverso",
           "ano": 2023,
-          "diretor": "Diretor Ação 2",
-          "imagem": ""
-        },
-        {
-          "titulo": "Filme de Ação 3",
-          "ano": 2024,
-          "diretor": "Diretor Ação 3",
-          "imagem": ""
+          "diretor": "Justin K. Thompson",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg"
         }
       ]
     },
@@ -50,45 +50,45 @@
       "nome": "Aventura",
       "filmes": [
         {
-          "titulo": "Filme de Aventura 1",
-          "ano": 2022,
-          "diretor": "Diretor Aventura 1",
-          "imagem": ""
+          "titulo": "Interestelar",
+          "ano": 2014,
+          "diretor": "Christopher Nolan",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg"
         },
         {
-          "titulo": "Filme de Aventura 2",
-          "ano": 2023,
-          "diretor": "Diretor Aventura 2",
-          "imagem": ""
+          "titulo": "Homem-Aranha: No Aranhaverso",
+          "ano": 2018,
+          "diretor": "Rodney Rothman",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg"
         },
         {
-          "titulo": "Filme de Aventura 3",
-          "ano": 2024,
-          "diretor": "Diretor Aventura 3",
-          "imagem": ""
+          "titulo": "O Castelo Animado",
+          "ano": 2004,
+          "diretor": "Hayao Miyazaki",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pwMlWGnIxBMd9v2hUXyHKdEt5bd.jpg"
         }
       ]
     },
     {
-      "nome": "Biografico",
+      "nome": "Animacao",
       "filmes": [
         {
-          "titulo": "Filme Biográfico 1",
-          "ano": 2022,
-          "diretor": "Diretor Biográfico 1",
-          "imagem": ""
+          "titulo": "A Viagem de Chihiro",
+          "ano": 2001,
+          "diretor": "Hayao Miyazaki",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg"
         },
         {
-          "titulo": "Filme Biográfico 2",
-          "ano": 2023,
-          "diretor": "Diretor Biográfico 2",
-          "imagem": ""
+          "titulo": "Your Name",
+          "ano": 2016,
+          "diretor": "Makoto Shinkai",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg"
         },
         {
-          "titulo": "Filme Biográfico 3",
-          "ano": 2024,
-          "diretor": "Diretor Biográfico 3",
-          "imagem": ""
+          "titulo": "Túmulo dos Vagalumes",
+          "ano": 1988,
+          "diretor": "Isao Takahata",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kREN2RkMqkzkoL0wLLqPxZqgyZ3.jpg"
         }
       ]
     },
@@ -96,91 +96,91 @@
       "nome": "Comedia",
       "filmes": [
         {
-          "titulo": "Filme de Comédia 1",
-          "ano": 2022,
-          "diretor": "Diretor Comédia 1",
-          "imagem": ""
+          "titulo": "Forrest Gump: O Contador de Histórias",
+          "ano": 1994,
+          "diretor": "Robert Zemeckis",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d74WpIsH8379TIL4wUxDneRCYv2.jpg"
         },
         {
-          "titulo": "Filme de Comédia 2",
-          "ano": 2023,
-          "diretor": "Diretor Comédia 2",
-          "imagem": ""
+          "titulo": "O Auto da Compadecida",
+          "ano": 2000,
+          "diretor": "Guel Arraes",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg"
         },
         {
-          "titulo": "Filme de Comédia 3",
-          "ano": 2024,
-          "diretor": "Diretor Comédia 3",
-          "imagem": ""
+          "titulo": "De Volta para o Futuro",
+          "ano": 1985,
+          "diretor": "Robert Zemeckis",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg"
         }
       ]
     },
     {
-      "nome": "Comedia Dramática",
+      "nome": "Misterio",
       "filmes": [
         {
-          "titulo": "Filme de Comédia Dramática 1",
-          "ano": 2022,
-          "diretor": "Diretor Comédia Dramática 1",
-          "imagem": ""
+          "titulo": "Seven: Os Sete Crimes Capitais",
+          "ano": 1995,
+          "diretor": "David Fincher",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oN5jOhcnguePfC9u3xzUOp98HzH.jpg"
         },
         {
-          "titulo": "Filme de Comédia Dramática 2",
-          "ano": 2023,
-          "diretor": "Diretor Comédia Dramática 2",
-          "imagem": ""
+          "titulo": "O Grande Truque",
+          "ano": 2006,
+          "diretor": "Christopher Nolan",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9QxqZI7ssVzyKEBwdUvOt3AUWzA.jpg"
         },
         {
-          "titulo": "Filme de Comédia Dramática 3",
-          "ano": 2024,
-          "diretor": "Diretor Comédia Dramática 3",
-          "imagem": ""
+          "titulo": "2001: Uma Odisséia no Espaço",
+          "ano": 1968,
+          "diretor": "Stanley Kubrick",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jPHKChBVWfWxXYO1yN4FZF1U2S.jpg"
         }
       ]
     },
     {
-      "nome": "Comedia Romántica",
+      "nome": "Historia",
       "filmes": [
         {
-          "titulo": "Filme de Comédia Romántica 1",
-          "ano": 2022,
-          "diretor": "Diretor Comédia Romántica 1",
-          "imagem": ""
+          "titulo": "Bohemian Rhapsody: A História de Freddie Mercury",
+          "ano": 2018,
+          "diretor": "Bryan Singer",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qxgdqcxI216kEoypGbA9BemB7mW.jpg"
         },
         {
-          "titulo": "Filme de Comédia Romántica 2",
+          "titulo": "Oppenheimer",
           "ano": 2023,
-          "diretor": "Diretor Comédia Romántica 2",
-          "imagem": ""
+          "diretor": "Christopher Nolan",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvaI1gezzvhkKid00goKxz9fAso.jpg"
         },
         {
-          "titulo": "Filme de Comédia Romántica 3",
-          "ano": 2024,
-          "diretor": "Diretor Comédia Romántica 3",
-          "imagem": ""
+          "titulo": "Luta por Justiça",
+          "ano": 2019,
+          "diretor": "Destin Daniel Cretton",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg"
         }
       ]
     },
     {
-      "nome": "Histórico",
+      "nome": "Faroeste",
       "filmes": [
         {
-          "titulo": "Filme Histórico 1",
-          "ano": 2022,
-          "diretor": "Diretor Histórico 1",
-          "imagem": ""
+          "titulo": "Os Oito Odiados",
+          "ano": 2015,
+          "diretor": "Quentin Tarantino",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg"
         },
         {
-          "titulo": "Filme Histórico 2",
-          "ano": 2023,
-          "diretor": "Diretor Histórico 2",
-          "imagem": ""
+          "titulo": "Django Livre",
+          "ano": 2012,
+          "diretor": "Quentin Tarantino",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xFOZFOdQFijudZrgX53mHeBI2Ff.jpg"
         },
         {
-          "titulo": "Filme Histórico 3",
-          "ano": 2024,
-          "diretor": "Diretor Histórico 3",
-          "imagem": ""
+          "titulo": "O Regresso",
+          "ano": 2015,
+          "diretor": "Alejandro González Iñárritu",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg"
         }
       ]
     },
@@ -188,22 +188,22 @@
       "nome": "Drama",
       "filmes": [
         {
-          "titulo": "Filme de Drama 1",
-          "ano": 2022,
-          "diretor": "Diretor Drama 1",
-          "imagem": ""
+          "titulo": "O Show de Truman: O Show da Vida",
+          "ano": 1998,
+          "diretor": "Peter Weir",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg"
         },
         {
-          "titulo": "Filme de Drama 2",
-          "ano": 2023,
-          "diretor": "Diretor Drama 2",
-          "imagem": ""
+          "titulo": "Intocáveis",
+          "ano": 2011,
+          "diretor": "Éric Toledano",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2tAzFC2xUAXEx96l5Xixb6WLAyO.jpg"
         },
         {
-          "titulo": "Filme de Drama 3",
-          "ano": 2024,
-          "diretor": "Diretor Drama 3",
-          "imagem": ""
+          "titulo": "Milagre na Cela 7",
+          "ano": 2019,
+          "diretor": "Mehmet Ada Öztekin",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q5Sj4pMaKpdMyywQIJhexNvCZYz.jpg"
         }
       ]
     },
@@ -211,22 +211,22 @@
       "nome": "Fantasia",
       "filmes": [
         {
-          "titulo": "Filme de Fantasia 1",
-          "ano": 2022,
-          "diretor": "Diretor Fantasia 1",
-          "imagem": ""
+          "titulo": "À Espera de um Milagre",
+          "ano": 1999,
+          "diretor": "Frank Darabont",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/14hEqW67IiHlKpzKMLUXyktzZIV.jpg"
         },
         {
-          "titulo": "Filme de Fantasia 2",
-          "ano": 2023,
-          "diretor": "Diretor Fantasia 2",
-          "imagem": ""
+          "titulo": "Demon Slayer: Mugen Train - O Filme",
+          "ano": 2020,
+          "diretor": "Haruo Sotozaki",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg"
         },
         {
-          "titulo": "Filme de Fantasia 3",
-          "ano": 2024,
-          "diretor": "Diretor Fantasia 3",
-          "imagem": ""
+          "titulo": "Harry Potter e as Relíquias da Morte - Parte 2",
+          "ano": 2011,
+          "diretor": "David Yates",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg"
         }
       ]
     },
@@ -234,22 +234,22 @@
       "nome": "Ficção Científica",
       "filmes": [
         {
-          "titulo": "Filme de Ficção Científica 1",
-          "ano": 2022,
-          "diretor": "Diretor Ficção Científica 1",
-          "imagem": ""
+          "titulo": "Guerra nas Estrelas: O Império Contra-Ataca",
+          "ano": 1980,
+          "diretor": "Irvin Kershner",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLGT8b4Ut10z44uYLaip4QiwKta.jpg"
         },
         {
-          "titulo": "Filme de Ficção Científica 2",
-          "ano": 2023,
-          "diretor": "Diretor Ficção Científica 2",
-          "imagem": ""
+          "titulo": "Matrix",
+          "ano": 1999,
+          "diretor": "Lilly Wachowski, Lana Wachowski",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg"
         },
         {
-          "titulo": "Filme de Ficção Científica 3",
-          "ano": 2024,
-          "diretor": "Diretor Ficção Científica 3",
-          "imagem": ""
+          "titulo": "Vingadores: Ultimato",
+          "ano": 2019,
+          "diretor": "Joe Russo",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg"
         }
       ]
     },
@@ -257,22 +257,22 @@
       "nome": "Musical",
       "filmes": [
         {
-          "titulo": "Filme Musical 1",
-          "ano": 2022,
-          "diretor": "Diretor Musical 1",
-          "imagem": ""
+          "titulo": "tick, tick... BOOM!",
+          "ano": 2021,
+          "diretor": "Lin-Manuel Miranda",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
         },
         {
-          "titulo": "Filme Musical 2",
-          "ano": 2023,
-          "diretor": "Diretor Musical 2",
-          "imagem": ""
+          "titulo": "Viva: A Vida é uma Festa",
+          "ano": 2017,
+          "diretor": "Lee Unkrich",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg"
         },
         {
-          "titulo": "Filme Musical 3",
-          "ano": 2024,
-          "diretor": "Diretor Musical 3",
-          "imagem": ""
+          "titulo": "La La Land: Cantando Estações",
+          "ano": 2016,
+          "diretor": "Damien Chazelle",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AvMietG6xuobpSSdmVnKuTjv4bL.jpg"
         }
       ]
     },
@@ -280,22 +280,22 @@
       "nome": "Romance",
       "filmes": [
         {
-          "titulo": "Filme de Romance 1",
-          "ano": 2022,
-          "diretor": "Diretor Romance 1",
-          "imagem": ""
+          "titulo": "Titanic",
+          "ano": 1977,
+          "diretor": "James Cameron",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Q1M1GsIuAj6tyEEq1LtBUmcrHy.jpg"
         },
         {
-          "titulo": "Filme de Romance 2",
-          "ano": 2023,
-          "diretor": "Diretor Romance 2",
-          "imagem": ""
+          "titulo": "Como Eu Era Antes de Você",
+          "ano": 2016,
+          "diretor": "Thea Sharrock",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1a60KPNTC4JKYphNQveAB37Lyif.jpg"
         },
         {
-          "titulo": "Filme de Romance 3",
-          "ano": 2024,
-          "diretor": "Diretor Romance 3",
-          "imagem": ""
+          "titulo": "Um Amor para Recordar",
+          "ano": 2002,
+          "diretor": "Adam Shankman",
+          "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s2UxmxiIOupjHmjs1Jl7TdWDVFc.jpg"
         }
       ]
     }

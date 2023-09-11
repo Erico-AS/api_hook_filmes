@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography'
 import { Box, CardActionArea, Paper } from '@mui/material';
 
-export default function CardFilme({titulo, sinopse, ano, avalicao, imagem, diretor}) {
+export default function CardFilme({titulo, sinopse, ano, avaliacao, imagem, diretor}) {
   return (
     <Card sx={{ maxWidth: 800}}>
       <CardActionArea>

@@ -29,9 +29,9 @@ export default function CardFilme({titulo, sinopse, ano, avalicao, imagem, diret
       </CardContent>
       </CardActionArea>
       <CardActions>
-      <Box display='flex' flexDirection={'column'} alignItems="center">
-        <Button size="large">{ano}</Button>
-        <Button size="small">{avalicao}</Button>
+      <Box display='flex' flexDirection={'row'} alignItems="center" justifyContent="flex-start">
+          <p size="large" id="ano">{ano}</p>
+          <p size="large">{avaliacao}</p>
       </Box>
       </CardActions>
     </Card>
